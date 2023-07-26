@@ -1,0 +1,5 @@
+OCR, short for Optical Character Recognition, is a technology that enables computers to convert images of printed or handwritten text into machine-readable text data.
+It allows automated text recognition and extraction, making it valuable for digitizing documents and facilitating text analysis.
+OCR works by analyzing the shapes and patterns of characters in an image.
+The process involves pre-processing the image to enhance text visibility, segmenting individual characters or words, and then using pattern recognition algorithms to identify and convert the characters into editable text.
+OCR finds applications in various fields, including document scanning, data entry automation, text extraction from images for translation services, digitizing historical texts, automated license plate recognition, and aiding visually impaired individuals by converting text to speech.
