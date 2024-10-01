@@ -35,8 +35,8 @@ Save each cropped line as a separate JPEG image with appropriate naming conventi
 
 ## Usage:
 
-Clone this repository.
-Install the required dependencies using pip install -r requirements.txt.
-Place the Sanskrit text image file in the images directory.
-Run the main.py script to perform the bounding box creation and image saving.
-The output images will be saved in the output directory.
+- Clone this repository.
+- Install the required dependencies using pip install -r requirements.txt.
+- Place the Sanskrit text image file in the images directory.
+- Run the main.py script to perform the bounding box creation and image saving.
+- The output images will be saved in the output directory.
