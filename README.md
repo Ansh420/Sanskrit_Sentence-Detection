@@ -26,7 +26,7 @@ Adjust the bounding box dimensions if necessary to ensure the text is fully cont
 ## Image Cropping and Saving:
 
 Crop the original image using the calculated bounding box coordinates to extract the individual lines.
-Save each cropped line as a separate JPEG image with appropriate naming conventions (e.g., "line1.jpg", "line2.jpg", etc.).
+Save each cropped line as a separate JPEG image with appropriate naming conventions (e.g., **"line1.jpg"**, "**line2.jpg**", etc.).
 ## Dependencies:
 
 - Python
