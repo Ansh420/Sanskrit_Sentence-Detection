@@ -3,7 +3,7 @@
 ## Objective
 To create bounding boxes around each line of Sanskrit text in the provided image file and save each individual line as a separate JPEG image.
 
-## Steps
+## Step
 
 ## Image Preprocessing
 
