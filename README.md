@@ -1,7 +1,7 @@
 # **Sanskrit Text Bounding Box Creation**
 
 ## Objective
-To create bounding boxes around each line of Sanskrit text in the provided image file and save each individual line as a separate JPEG image.
+To create **bounding boxes around each line of Sanskrit text** in the provided image file and save each individual line as a separate JPEG image.
 
 ## Steps 
 
