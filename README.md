@@ -7,7 +7,7 @@ To create **bounding boxes around each line of Sanskrit text** in the provided i
 
 ## Image Preprocessing
 
-- Load the provided Sanskrit text image.
+- Load the provided **Sanskrit text image**.
 - Convert the image to grayscale (if necessary) for better text detection.
 - Apply any necessary image enhancement techniques (e.g., noise reduction, sharpening) to improve text clarity.
 
