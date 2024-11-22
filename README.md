@@ -21,7 +21,7 @@ To create **bounding boxes around each line of Sanskrit text** in the provided i
 - Apply techniques like horizontal projection profiles or morphological operations to separate lines based on their vertical spacing.
 ## Bounding Box Creation
 
-- For each identified line, create a bounding box that tightly encloses the text region.
+- For each identified line, **create a bounding box that tightly encloses the text region**.
 - Adjust the bounding box dimensions if necessary to ensure the text is fully contained.
 ## Image Cropping and Saving:
 
