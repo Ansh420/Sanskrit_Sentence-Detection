@@ -13,8 +13,8 @@ To create **bounding boxes around each line of Sanskrit text** in the provided i
 
 ## Text Detection
 
-- Use an appropriate text detection algorithm or library (e.g., OpenCV, Tesseract OCR, Pytesseract) to identify the text regions within the image.
-- Extract the bounding boxes for each detected text region.
+- Use an appropriate **text detection** algorithm or library (e.g., OpenCV, Tesseract OCR, Pytesseract) to identify the text regions within the image.
+- Extract the **bounding boxes** for each detected text region.
 ## Line Segmentation
 
 - Analyze the extracted bounding boxes to identify individual lines of text.
