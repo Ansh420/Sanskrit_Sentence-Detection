@@ -17,7 +17,7 @@ To create **bounding boxes around each line of Sanskrit text** in the provided i
 - Extract the **bounding boxes** for each detected text region.
 ## Line Segmentation
 
-- Analyze the extracted bounding boxes to identify individual lines of text.
+- Analyze the **extracted bounding** boxes to identify individual lines of text.
 - Apply techniques like horizontal projection profiles or morphological operations to separate lines based on their vertical spacing.
 ## Bounding Box Creation
 
