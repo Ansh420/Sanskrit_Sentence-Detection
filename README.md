@@ -1,4 +1,4 @@
-# **Sanskrit Text Bounding Box **
+# **Sanskrit Text Bounding Box**
 
 ## Objective
 To create **bounding boxes around each line of Sanskrit text** in the provided image file and save each individual line as a separate JPEG image.
